@@ -2,7 +2,7 @@
 
 Scraplet is a simple Java-based command-line web scraper that fetches a webpage, saves the HTML, and generates a structured JSON representation of its DOM.
 
-## 🔧 Features
+## Features
 
 - Fetches any webpage using a user-defined URL
 - Saves the full raw HTML to a file
